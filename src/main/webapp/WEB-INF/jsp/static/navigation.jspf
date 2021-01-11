@@ -2,8 +2,8 @@
 <nav role="navigation" class="navbar navbar-default">
 	<div class="">
 		<ul class="nav navbar-nav">
-			<li><a href="https://github.com/koushikraj23/Online-Todo-List">Github
-					Link</a></li>
+			<li><a href="https://github.com/gehamehta/online-todo-list"
+				target="_blank">Github Link</a></li>
 		</ul>
 		<ul class="nav navbar-nav">
 			<li><a href="/logout">Logout</a></li>
